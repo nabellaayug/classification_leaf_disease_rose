@@ -22,12 +22,16 @@ ResNet50 is chosen for this project due to several advantages:
 ## 📁 **Dataset**
 The dataset used in this project includes images of rose leaves, categorized by different diseases. The data forms the foundation for training and testing the model.
 
-- **Dataset Link**: [Access the Dataset Here](https://example.com/dataset-link) *(Replace this with the actual link)*
+- **Dataset Link**: [Access the Dataset Here]((https://www.kaggle.com/datasets/warcoder/rose-leaves-disease-detection)) 
 
 ## 📷 **Sample Images**
-| Healthy Leaf | Diseased Leaf |
-|:------------:|:-------------:|
-| ![Healthy](https://via.placeholder.com/150) | ![Diseased](https://via.placeholder.com/150) |
+| Fresh Leaf | Black Spot Leaf | Downy Mildew |
+|:------------:|:-------------:|:-------------:|
+| ![Healthy](https://github.com/user-attachments/assets/80c07b0d-2b57-457a-9cab-595a83edf0a1)
+ | ![Diseased](https://github.com/user-attachments/assets/7935a67f-0e57-49c2-a563-6918d4529ef7)
+|
+![Disease](https://github.com/user-attachments/assets/b5f6f09f-2a38-4ffd-8e2e-cc985702fc8b) |
+
 
 ## 🚀 **Technologies Used**
 - **Programming Language**: Python
